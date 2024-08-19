@@ -7,7 +7,6 @@ author_profile: true
 ### Address
 You can find me at:  
 A665 Public Health
-
 <a target='_blank' href="https://maps.app.goo.gl/nUJ4ZppRPrz5rPFz9">
   130 De Soto Street
   Pittsburgh, PA 15261
