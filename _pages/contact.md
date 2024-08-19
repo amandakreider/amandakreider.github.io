@@ -6,10 +6,11 @@ author_profile: true
 ---
 ### Address
 You can find me at:  
-Colonial Penn Center #108  
-<a target='_blank' href="https://goo.gl/maps/6SeVHnumvaTYiznv7">
-  3641 Locust Walk  
-  Philadelphia, PA 19104
+A665 Public Health
+<a target='_blank' href="https://maps.app.goo.gl/nUJ4ZppRPrz5rPFz9">
+  130 De Soto Street
+  Pittsburgh, PA 15261
 </a>  
+
 ### Email
-Send me an <a target='_blank' href="mailto:akreid@wharton.upenn.edu">email</a>!
+Send me an <a target='_blank' href="mailto:amandakreider@pitt.edu">email</a>!
