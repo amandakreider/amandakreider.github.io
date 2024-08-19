@@ -17,18 +17,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-## Other Working Papers
-
-{% for post in site.working-papers reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-## Works in Progress
-
-{% for post in site.in-progress reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
 ## Publications
 
 {% for post in site.publications reversed %}
