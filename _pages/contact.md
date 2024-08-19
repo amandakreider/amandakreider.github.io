@@ -5,7 +5,7 @@ excerpt:
 author_profile: true
 ---
 ### Address
-You can find me at:  
+You can find me at:
 A665 Public Health
 130 De Soto Street
 Pittsburgh, PA 15261
