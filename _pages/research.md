@@ -17,8 +17,14 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-## Publications
+## Publications in Economics
 
-{% for post in site.publications reversed %}
+{% for post in site.pubsecon reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+## Publications in Health Policy
+
+{% for post in site.pubsmed reversed %}
   {% include archive-single.html %}
 {% endfor %}

@@ -36,11 +36,17 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+Publications in Economics 
 ======
-  <ul>{% for post in site.publications reversed %}
+  <ul>{% for post in site.pubsecon reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Publications in Health Policy 
+======
+  <ul>{% for post in site.pubsmed reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>  
   
 Talks
 ======
