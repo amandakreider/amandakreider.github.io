@@ -180,6 +180,9 @@ collections:
   pubsmed:
     output: true
     permalink: /:collection/:path/
+  pubsecon:
+    output: true
+    permalink: /:collection/:path/    
   working-papers:
     output: true
     permalink: /:collection/:path/  
