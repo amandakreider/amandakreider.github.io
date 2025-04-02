@@ -30,7 +30,7 @@ We exclude states with incomplete reporting of expenditures.
 
 ### Principal Findings
 
-States' HCBS expenditures increased between 2008 and 2019 after adjusting for inflation and the number of potential HCBS beneficiaries. Yet, home care workers' wages remained stagnant at $11–12/h. We find no association between changes in Medicaid HCBS expenditures and wages. For every additional $1 million in Medicaid HCBS expenditures, the expected number of workers increases by 1.2 and the probability of working overtime increased (0.0015 percentage points; p < 0.05). Results are largely robust under multiple sensitivity analyses.
+States' HCBS expenditures increased between 2008 and 2019 after adjusting for inflation and the number of potential HCBS beneficiaries. Yet, home care workers' wages remained stagnant at \$11–12/h. We find no association between changes in Medicaid HCBS expenditures and wages. For every additional $1 million in Medicaid HCBS expenditures, the expected number of workers increases by 1.2 and the probability of working overtime increased (0.0015 percentage points; p < 0.05). Results are largely robust under multiple sensitivity analyses.
 
 ### Conclusions
 
