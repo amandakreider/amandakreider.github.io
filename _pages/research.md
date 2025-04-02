@@ -23,7 +23,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-## Publications in Health Policy
+## Publications in Health Policy, HSR, and Medicine
 
 {% for post in site.pubsmed reversed %}
   {% include archive-single.html %}
