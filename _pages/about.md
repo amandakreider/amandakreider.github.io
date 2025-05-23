@@ -10,5 +10,5 @@ redirect_from:
 
 ## About Me
 
-I'm a health economist and an assistant professor in the Department of Health Policy and Management at the University of Pittsburgh School of Public Health. I received a PhD in Health Policy and Economics from Harvard University in 2021. My research examines how US public policy impacts people from historically marginalized groups, including those living in poverty, experiencing chronic illness or disability, or exposed to the criminal legal system. I'm particularly interested in the economics of public health insurance programs, long-term care, immigration, and mental health care. Through my research, I hope to contribute to a more equitable and accessible health care system.
+I'm a health economist and assistant professor in the Department of Health Policy and Management at the University of Pittsburgh School of Public Health. I hold a PhD in Health Policy and Economics from Harvard University (2021). My research examines how public policy impacts healthcare access, with a focus on outcomes for older adults, people living in poverty, and people with disabilities. I'm particularly interested in the economics of long-term care, Medicaid, and Medicare.
 
