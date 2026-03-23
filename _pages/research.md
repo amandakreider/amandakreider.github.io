@@ -13,7 +13,7 @@ author_profile: true
 
 ## Working Papers
 
-{% for post in site.jmp reversed %}
+{% for post in site.working-papers reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
