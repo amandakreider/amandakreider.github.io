@@ -18,6 +18,13 @@
   date: 2023-04-24
   type: "news"
 
+- outlet: "WHYY"
+  title: "Kids on antipsychotic meds more prone to diabetes, CHOP researchers find"
+  url: "https://whyy.org/articles/kids-on-antipsychotics-are-more-prone-to-diabetes/"
+  author: "Jessica McDonald"
+  date: 2015-04-08
+  type: "news"
+
 - outlet: "The Washington Post"
   title: "The business of caring for older Americans is in a deepening crisis"
   author: "Shannon Najmabadi"
