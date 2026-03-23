@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Job Market Paper
+## Working Papers
 
 {% for post in site.jmp reversed %}
   {% include archive-single.html %}

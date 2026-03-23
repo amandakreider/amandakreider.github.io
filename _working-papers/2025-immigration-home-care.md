@@ -1,6 +1,6 @@
 ---
 title: 'Immigration Enforcement, the Home Care Workforce, and Access to Long-Term Care: Evidence from Secure Communities'
-collection: jmp
+collection: working-papers
 permalink: /in-progress/2025-immigration-home-care
 excerpt: ''
 link: 'https://amandakreider.github.io/files/Immigration-Home-Care-2025.pdf'
