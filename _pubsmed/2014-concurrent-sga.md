@@ -9,7 +9,7 @@ paperurl: 'https://doi.org/10.1016/j.jaac.2014.05.010'
 submit: 1
 doi: '10.1016/j.jaac.2014.05.010'
 citation: 'Kreider, Amanda R., Meredith Matone, Christopher Bellonci, Susan dosReis, Chris Feudtner, Yuan-Shung Huang, Russell Localio, and David M. Rubin. 2014. &quot;Growth in the Concurrent Use of Antipsychotics with Other Psychotropic Medications in Medicaid-Enrolled Children.&quot; <i>Journal of the American Academy of Child and Adolescent Psychiatry</i> 53 (9): 960-970.e2.'
-coauthors: 'Meredith Matone, Christopher Bellonci, Susan dosReis, Chris Feudtner, Yuan-Shung Huang, Russell Localio, and David M. Rubin'
+coauthors: 'Meredith Matone, Christopher Bellonci, Susan dosReis, et al.'
 ---
 
 ## Abstract 
