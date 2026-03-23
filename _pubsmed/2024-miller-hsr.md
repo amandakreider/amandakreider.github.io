@@ -9,6 +9,7 @@ paperurl: 'https://onlinelibrary.wiley.com/doi/10.1111/1475-6773.14399'
 submit: 1
 doi: '10.1111/1475-6773.14399'
 citation: 'Miller, Katherine E. M., Norma B. Coe, Amanda R. Kreider, Allison Hoffman, Katherine Rhode, and Pilar Gonalons-Pons. 2024. &quot;Increasing Expenditures on Home- and Community-Based Services: Do Home Care Workers Benefit?&quot; <i>Health Services Research</i>, October. https://doi.org/10.1111/1475-6773.14399.'
+coauthors: 'Kate Miller, Norma Coe, Allison Hoffman, Katherine Rohde, and Pilar Gonalons-Pons'
 ---
 ## Abstract
 

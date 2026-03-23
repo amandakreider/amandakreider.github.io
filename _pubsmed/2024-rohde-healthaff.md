@@ -9,6 +9,7 @@ paperurl: 'https://www.healthaffairs.org/doi/10.1377/hlthaff.2023.01276'
 submit: 1
 doi: '10.1377/hlthaff.2023.01276'
 citation: 'Rohde, Katherine, Norma B. Coe, Pilar Gonalons-Pons, Katherine Miller, Amanda R. Kreider, and Allison K. Hoffman. 2024. &quot;Addressing Problems With Medicaid Home And Community-Based Services In The Age Of Rebalancing.&quot; <i>Health Affairs (Project Hope)</i> 43(10): 1438–47. https://doi.org/10.1377/hlthaff.2023.01276.'
+coauthors: 'Katherine Rohde, Norma Coe, Pilar Gonalons-Pons, Kate Miller, and Allison Hoffman'
 ---
 ## Abstract
 

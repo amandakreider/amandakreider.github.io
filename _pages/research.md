@@ -22,25 +22,13 @@ author_profile: true
 ## Publications in Economics
 
 {% for post in site.pubsecon reversed %}
-{% assign raw_authors = post.citation | split: '. "' | first %}
-{% assign author_list = raw_authors | remove: "Kreider, Amanda R.," | remove: "Kreider, Amanda," | remove: ", Amanda R. Kreider" | remove: ", Amanda Kreider" | strip %}
-{% if author_list != "" %}
-[{{ post.title }}]({{ post.paperurl }}), with {{ author_list }}, *{{ post.venue }}*, {{ post.date | date: "%Y" }}
-{% else %}
-[{{ post.title }}]({{ post.paperurl }}), *{{ post.venue }}*, {{ post.date | date: "%Y" }}
-{% endif %}
+{% if post.paperurl and post.paperurl != '' %}[{{ post.title }}]({{ post.paperurl }}){% else %}{{ post.title }}{% endif %}{% if post.coauthors %}, with {{ post.coauthors }}{% endif %}, *{{ post.venue }}*, {{ post.date | date: "%Y" }}
 
 {% endfor %}
 
 ## Publications in Health Policy, HSR, and Medicine
 
 {% for post in site.pubsmed reversed %}
-{% assign raw_authors = post.citation | split: '. "' | first %}
-{% assign author_list = raw_authors | remove: "Kreider, Amanda R.," | remove: "Kreider, Amanda," | remove: ", Amanda R. Kreider" | remove: ", Amanda Kreider" | strip %}
-{% if author_list != "" %}
-[{{ post.title }}]({{ post.paperurl }}), with {{ author_list }}, *{{ post.venue }}*, {{ post.date | date: "%Y" }}
-{% else %}
-[{{ post.title }}]({{ post.paperurl }}), *{{ post.venue }}*, {{ post.date | date: "%Y" }}
-{% endif %}
+{% if post.paperurl and post.paperurl != '' %}[{{ post.title }}]({{ post.paperurl }}){% else %}{{ post.title }}{% endif %}{% if post.coauthors %}, with {{ post.coauthors }}{% endif %}, *{{ post.venue }}*, {{ post.date | date: "%Y" }}
 
 {% endfor %}
