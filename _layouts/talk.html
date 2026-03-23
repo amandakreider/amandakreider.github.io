@@ -40,6 +40,10 @@ layout: default
         </header>
       {% endunless %}
 
+      <section class="page__content" itemprop="text">
+        {{ content }}
+      </section>
+
       <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}
           <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
