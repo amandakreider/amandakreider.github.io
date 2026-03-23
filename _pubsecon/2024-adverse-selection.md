@@ -8,7 +8,7 @@ venue: 'Journal of Health Economics'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0167629624000468'
 submit: 1
 doi: '10.1016/j.jhealeco.2024.102901'
-citation: 'Kreider, Amanda R., Timothy J. Layton, Mark Shepard, and Jacob Wallace. 2024. &quot;Adverse Selection and Network Design Under Regulated Plan Prices: Evidence from Medicaid.&quot; <i>Journal of Health Economics</i> 97 (September). https://doi.org/10.1016/j.jhealeco.2024.102901.'
+citation: 'Kreider, Amanda R., Timothy J. Layton, Mark Shepard, and Jacob Wallace. 2024. &quot;Adverse Selection and Network Design Under Regulated Plan Prices: Evidence from Medicaid.&quot; <i>Journal of Health Economics</i> 97 (September).'
 coauthors: 'Tim Layton, Mark Shepard, and Jacob Wallace'
 ---
 ## Abstract
