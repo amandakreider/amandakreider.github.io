@@ -1,0 +1,59 @@
+- outlet: "STAT News"
+  title: "Long-term care in the U.S. faces two existential threats: an immigration crackdown and Medicaid cuts"
+  url: "https://www.statnews.com/2025/05/30/long-term-care-system-immigration-crackdown-medicaid-cuts-threats-congress/"
+  date: 2025-05-30
+  type: "opinion"
+
+- outlet: "Yahoo! Finance"
+  title: "Home health aides epitomize a key problem in the current job market"
+  author: "Ockerman, Emma"
+  url: "https://finance.yahoo.com/news/home-health-aides-epitomize-a-key-problem-in-the-current-job-market-153016785.html"
+  date: 2026-03-22
+  type: "news"
+
+- outlet: "The Washington Post"
+  title: "The business of caring for older Americans is in a deepening crisis"
+  author: "Najmabadi, Shannon"
+  url: "https://www.washingtonpost.com/business/2025/12/04/elder-care-home-health-shortage/"
+  date: 2025-12-07
+  type: "news"
+
+- outlet: "KFF Health News Morning Briefing"
+  title: "Viewpoints: Insurance Coverage For Functional Health Makes Sense; To Be Clear, Influencers Are Not Doctors"
+  url: "https://kffhealthnews.org/morning-breakout/viewpoints-insurance-coverage-for-functional-health-makes-sense-to-be-clear-influencers-are-not-doctors/"
+  date: 2025-05-30
+  type: "blog" 
+
+- outlet: "Penn LDI"
+  title: "Staffing Mandates Boost Care Without Closing Nursing Homes"
+  author: "Seegert, Liz"
+  url: "https://ldi.upenn.edu/our-work/research-updates/staffing-mandates-boost-care-without-closing-nursing-homes/"
+  date: 2026-03-02
+  type: "blog"
+
+- outlet: "NPR"
+  title: "Caregivers for the elderly could lose wage protections under Trump proposal"
+  author: "Hsu, Andrea"
+  url: "https://www.npr.org/2026/01/29/nx-s1-5626767/home-care-seniors-trump-labor-overtime"
+  date: 2026-01-29
+  type: "news"
+
+- outlet: "Pitt HPM Newsletter"
+  title: "Understanding a looming crisis: HPM’s Kreider studies the economics of home care workers"
+  author: "Friend, Mike"
+  url: "https://www.publichealth.pitt.edu/news/understanding-looming-crisis-hpms-kreider-studies-economics-home-care-workers"
+  date: 2026-03-10
+  type: "blog"
+
+- outlet: "Economic Policy Institute: Working Economics Blog"
+  title: "Trump’s deportation plans threaten 400,000 direct care jobs"
+  author: "Zipperer, Ben"
+  url: "https://www.epi.org/blog/trumps-deportation-plans-threaten-400000-direct-care-jobs-older-adults-and-people-with-disabilities-could-lose-vital-in-home-support/"
+  date: 2025-12-15
+  type: "blog"
+
+- outlet: "PolicyLab"
+  title: "New PolicyLab study examines quality of health insurance coverage and access for kids in low-income families"
+  url: "https://www.policylab.chop.edu/announcements/new-policylab-study-examines-quality-health-insurance-coverage-and-access-kids-low"
+  date: 2015-11-16
+  type: "blog" 
