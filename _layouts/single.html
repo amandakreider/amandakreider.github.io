@@ -39,8 +39,8 @@ layout: default
         {% elsif page.collection == 'side-projects' and page.venue and page.projurl %}
           <p> Published on <a href='{{ page.projurl }}' target='_blank'>{{ page.venue }}</a>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.collection == 'working-papers' or page.collection == 'in-progress' %}
-          {% if page.ssrn %}
-            <p><a href='{{ page.ssrn }}' target='_blank'>Working Paper</a>{% if page.paperurl %} &nbsp;|&nbsp; <a href='{{ page.paperurl }}' target='_blank'>Download PDF</a>{% endif %}</p>
+          {% if page.link %}
+            <p><a href='{{ page.link }}' target='_blank'>Working Paper</a>{% if page.paperurl %} &nbsp;|&nbsp; <a href='{{ page.paperurl }}' target='_blank'>Download PDF</a>{% endif %}</p>
           {% elsif page.paperurl %}
             <p><a href='{{ page.paperurl }}' target='_blank'>Download PDF</a></p>
           {% endif %}
