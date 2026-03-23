@@ -7,6 +7,7 @@ venue: "Harvard University"
 date: 2018-09-01	
 location: "Cambridge, MA"
 semester: "Fall 2018"
+role: 'Teaching Fellow'
 ---
 
 **Semester**: Fall 2018  
