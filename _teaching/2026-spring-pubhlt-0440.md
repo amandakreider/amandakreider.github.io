@@ -9,8 +9,8 @@ location: "Pittsburgh, PA"
 semester: "Spring 2026"
 ---
 
-**Semester**: Spring 2026 
-**Catalog Number**: PUBHLT 0440 
+**Semester**: Spring 2026  
+**Catalog Number**: PUBHLT 0440  
 **My Role**: Instructor
 
 ## Course Description
