@@ -11,6 +11,13 @@
   date: 2026-03-22
   type: "news"
 
+- outlet: "HealthDay"
+  title: "Investments Needed to Meet Demand for Home Care Workforce"
+  author: "Elana Gotkine"
+  url: "https://www.healthday.com/healthpro-news/caregiving/physician-s-briefing-home-health-2659896916.html"
+  date: 2023-04-24
+  type: "news"
+
 - outlet: "The Washington Post"
   title: "The business of caring for older Americans is in a deepening crisis"
   author: "Shannon Najmabadi"
@@ -24,6 +31,33 @@
   date: 2025-05-30
   type: "blog" 
 
+- outlet: "HealthInsurance.org"
+  title: "Medicaid: Worst insurance in America?"
+  author: "Harold Pollack"
+  date: 2015-11-17
+  url: "https://www.healthinsurance.org/blog/medicaid-worst-insurance-in-america/"
+  type: "blog"
+
+- outlet: "Penn LDI"
+  title: "Two Looming Crises Threaten to Collapse U.S. Long-Term Care"
+  url: "https://ldi.upenn.edu/our-work/research-updates/two-looming-crises-threaten-to-collapse-u-s-long-term-care/"
+  date: 2025-05-30
+  type: "blog"
+
+- outlet: "Penn LDI"
+  title: "Home Health Care Workforce Not Keeping Up with Community Needs"
+  url: "https://ldi.upenn.edu/our-work/research-updates/home-health-care-workforce-not-keeping-up-with-community-needs/"
+  author: "Nancy Stedman"
+  date: 2023-06-09
+  type: "blog"
+
+- outlet: "Penn LDI"
+  title: "How Medicaid Cuts Could Force Millions Into Nursing Homes"
+  url: "https://ldi.upenn.edu/our-work/research-updates/how-medicaid-cuts-could-force-millions-into-nursing-homes/"
+  author: "Nancy Stedman"
+  date: 2025-07-02
+  type: "blog"
+
 - outlet: "Penn LDI"
   title: "Staffing Mandates Boost Care Without Closing Nursing Homes"
   author: "Liz Seegert"
@@ -31,12 +65,38 @@
   date: 2026-03-02
   type: "blog"
 
+- outlet: "Penn LDI"
+  title: "Worker Wages Stagnate as Medicaid Home Care Spending Rises"
+  author: "Chris Tachibana"
+  url: "https://ldi.upenn.edu/our-work/research-updates/worker-wages-stagnate-as-medicaid-home-care-spending-rises/"
+  date: 2024-12-10
+  type: "blog"
+
+- outlet: "Penn LDI"
+  title: "Chart of the Day: The Number of Home Care Workers Has Failed To Keep Pace With Consumer Demand"
+  author: "Sam Schotland"
+  url: "https://ldi.upenn.edu/our-work/research-updates/chart-of-the-day-the-number-of-home-care-workers-has-failed-to-keep-pace-with-consumer-demand/"
+  type: "blog"
+  date: 2023-04-20
+
+- outlet: "Penn LDI"
+  title: "Impact of Proposed Changes to the Application of the Fair Labor Standards Act to Domestic Service on the Home Care Workforce"
+  url: "https://ldi.upenn.edu/our-work/research-updates/impact-of-proposed-changes-to-the-application-of-the-fair-labor-standards-act-to-domestic-service-on-the-home-care-workforce/"
+  type: "blog"
+  date: 2025-09-02
+
 - outlet: "NPR"
   title: "Caregivers for the elderly could lose wage protections under Trump proposal"
   author: "Andrea Hsu"
   url: "https://www.npr.org/2026/01/29/nx-s1-5626767/home-care-seniors-trump-labor-overtime"
   date: 2026-01-29
   type: "news"
+
+- outlet: "New America"
+  title: "An Open Letter from Economists and Public Policy Scholars in Support of Investments in Home and Community Based Services"
+  url: "https://www.newamerica.org/insights/an-open-letter-from-economists-and-public-policy-scholars-in-support-of-investments-in-home-and-community-based-services/"
+  date: 2021-10-07
+  type: "blog"
 
 - outlet: "Pitt HPM Newsletter"
   title: "Understanding a looming crisis: HPM’s Kreider studies the economics of home care workers"
