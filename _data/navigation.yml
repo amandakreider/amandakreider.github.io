@@ -18,8 +18,8 @@ main:
   - title: "CV"
     url: /files/kreider_cv.pdf
 
-  - title: "Side Projects"
-    url: /side-projects/
+  #- title: "Side Projects"
+  #  url: /side-projects/
 
   - title: "Contact"
     url: /contact/    
