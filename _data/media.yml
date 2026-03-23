@@ -56,14 +56,14 @@
   title: "Viewpoints: Insurance Coverage For Functional Health Makes Sense; To Be Clear, Influencers Are Not Doctors"
   url: "https://kffhealthnews.org/morning-breakout/viewpoints-insurance-coverage-for-functional-health-makes-sense-to-be-clear-influencers-are-not-doctors/"
   date: 2025-05-30
-  type: "blog" 
+  type: "blog-external" 
 
 - outlet: "HealthInsurance.org"
   title: "Medicaid: Worst insurance in America?"
   author: "Harold Pollack"
   date: 2015-11-17
   url: "https://www.healthinsurance.org/blog/medicaid-worst-insurance-in-america/"
-  type: "blog"
+  type: "blog-external"
 
 - outlet: "Penn LDI"
   title: "Two Looming Crises Threaten to Collapse U.S. Long-Term Care"
@@ -123,7 +123,7 @@
   title: "An Open Letter from Economists and Public Policy Scholars in Support of Investments in Home and Community Based Services"
   url: "https://www.newamerica.org/insights/an-open-letter-from-economists-and-public-policy-scholars-in-support-of-investments-in-home-and-community-based-services/"
   date: 2021-10-07
-  type: "blog"
+  type: "blog-external"
 
 - outlet: "Pitt HPM Newsletter"
   title: "Understanding a looming crisis: HPM’s Kreider studies the economics of home care workers"
@@ -137,7 +137,7 @@
   author: "Ben Zipperer"
   url: "https://www.epi.org/blog/trumps-deportation-plans-threaten-400000-direct-care-jobs-older-adults-and-people-with-disabilities-could-lose-vital-in-home-support/"
   date: 2025-12-15
-  type: "blog"
+  type: "blog-external"
 
 - outlet: "PolicyLab"
   title: "New PolicyLab study examines quality of health insurance coverage and access for kids in low-income families"

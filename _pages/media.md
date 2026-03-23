@@ -21,6 +21,12 @@ author_profile: true
 {% endfor %}
 
 ## Blog Posts
+{% assign blog-external = site.data.media | where: "type", "blog-external" | sort: "date" | reverse %}
+{% for item in blog-external %}
+  <p><a href="{{ item.url }}">{{ item.title }}</a>, <em>{{ item.outlet }}</em>{% if item.author %}, {{ item.author }}{% endif %}, {{ item.date }}</p>
+{% endfor %}
+
+## Blog Posts (Internal)
 {% assign blog = site.data.media | where: "type", "blog" | sort: "date" | reverse %}
 {% for item in blog %}
   <p><a href="{{ item.url }}">{{ item.title }}</a>, <em>{{ item.outlet }}</em>{% if item.author %}, {{ item.author }}{% endif %}, {{ item.date }}</p>
