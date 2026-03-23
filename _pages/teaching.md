@@ -1,0 +1,24 @@
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+---
+
+{% include base_path %}
+
+## Instructor
+
+{% for post in site.teaching reversed %}
+  {% if post.role == 'Instructor' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+## Teaching Fellow
+
+{% for post in site.teaching reversed %}
+  {% if post.role == 'Teaching Fellow' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
