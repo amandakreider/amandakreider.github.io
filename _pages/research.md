@@ -30,7 +30,7 @@ author_profile: true
 
 {% endfor %}
 
-## Publications in Demography (Pre-PhD)
+## Publications in Demography (Undergraduate RA Work)
 
 {% for post in site.pubsdem reversed %}
 [{{ post.title }}]({{ base_path }}{{ post.url }}){% if post.coauthors %}, with {{ post.coauthors }}{% endif %}, *{{ post.venue }}*, {{ post.date | date: "%Y" }}
