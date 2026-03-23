@@ -18,6 +18,26 @@
   date: 2023-04-24
   type: "news"
 
+- outlet: "Tradeoffs"
+  title: "Immigration Enforcement’s Twin Threats to Health Care"
+  author: "Julie Wernau"
+  date: 2026-02-26
+  url: "https://tradeoffs.org/2026/02/26/immigration-enforcements-twin-threats-to-health-care/"
+  type: "news"
+
+- outlet: "The New Republic"
+  title: "The Looming Crisis in Home Health Care"
+  author: "Grace Segers"
+  url: "https://newrepublic.com/article/207658/cuts-medicaid-home-health-care"
+  date: 2026-03-12
+  type: "news"
+
+- outlet: "Healio"
+  title: "Concurrent antipsychotic, psychotropic use common among Medicaid-enrolled children"
+  url: "https://www.healio.com/news/psychiatry/20140709/concurrent-antipsychotic-psychotropic-use-common-among-medicaidenrolled-children"
+  date: 2014-07-04
+  type: "news"
+
 - outlet: "WHYY"
   title: "Kids on antipsychotic meds more prone to diabetes, CHOP researchers find"
   url: "https://whyy.org/articles/kids-on-antipsychotics-are-more-prone-to-diabetes/"
