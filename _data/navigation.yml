@@ -3,8 +3,8 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Dissertation"
-    url: /dissertation/
+  #- title: "Dissertation"
+  #  url: /dissertation/
 
   - title: "Teaching"
     url: /teaching/    
