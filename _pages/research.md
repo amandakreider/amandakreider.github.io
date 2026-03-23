@@ -16,6 +16,13 @@ author_profile: true
 
 {% endfor %}
 
+## Works in Progress
+
+{% for project in site.data.in-progress %}
+{{ project.title }}{% if project.coauthors %}, with {{ project.coauthors }}{% endif %}
+
+{% endfor %}
+
 ## Publications in Economics
 
 {% for post in site.pubsecon reversed %}
