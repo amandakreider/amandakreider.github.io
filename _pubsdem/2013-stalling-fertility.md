@@ -1,6 +1,6 @@
 ---
 title: 'Stalling of Fertility Transitions and Socioeconomic Change in the Developing World: Evidence from the Demographic and Health Surveys'
-collection: pubsmed
+collection: pubsdem
 permalink: /publication/2013-stalling-fertility
 excerpt: ''
 date: 2013-01-01

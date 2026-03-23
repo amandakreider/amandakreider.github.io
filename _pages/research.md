@@ -23,9 +23,16 @@ author_profile: true
 
 {% endfor %}
 
-## Publications in Health Policy, HSR, and Medicine
+## Publications in Health Policy, Health Services Research, and Medicine
 
 {% for post in site.pubsmed reversed %}
+[{{ post.title }}]({{ base_path }}{{ post.url }}){% if post.coauthors %}, with {{ post.coauthors }}{% endif %}, *{{ post.venue }}*, {{ post.date | date: "%Y" }}
+
+{% endfor %}
+
+## Publications in Demography (Pre-PhD)
+
+{% for post in site.pubsdem reversed %}
 [{{ post.title }}]({{ base_path }}{{ post.url }}){% if post.coauthors %}, with {{ post.coauthors }}{% endif %}, *{{ post.venue }}*, {{ post.date | date: "%Y" }}
 
 {% endfor %}
