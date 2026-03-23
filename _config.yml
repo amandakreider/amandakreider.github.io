@@ -181,6 +181,9 @@ collections:
   pubsmed:
     output: true
     permalink: /:collection/:path/
+  pubsdem:
+    output: true
+    permalink: /:collection/:path/
   pubsecon:
     output: true
     permalink: /:collection/:path/    

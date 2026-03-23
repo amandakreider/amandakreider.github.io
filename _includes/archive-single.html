@@ -42,7 +42,7 @@
           <p> {{ post.type }}, {{ post.venue }}, {{ post.semester }} </p>
         {% elsif post.collection == 'side-projects' %}
           <p> Published on <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>     
-        {% elsif post.collection == 'pubsmed' or post.collection == 'pubsecon' or post.collection == 'in-progress' %}
+        {% elsif post.collection == 'pubsmed' or post.collection == 'pubsecon' or post.collection == 'in-progress' or post.collection == 'pubsdem' %}
           {% if post.venue != '' and post.submit == 1 %}
             <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
           {% elsif post.venue != '' and post.submit == 2 %}
