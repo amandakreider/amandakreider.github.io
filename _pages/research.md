@@ -19,7 +19,7 @@ author_profile: true
 ## Works in Progress
 
 {% for project in site.data.in-progress %}
-{{ project.title }}{% if project.coauthors %}, with {{ project.coauthors }}{% endif %}
+*{{ project.title }}*{% if project.coauthors %}, with {{ project.coauthors }}{% endif %}
 
 {% endfor %}
 
