@@ -20,11 +20,27 @@ author_profile: true
 {% endfor %}
 
 ## Publications in Economics
+
 {% for post in site.pubsecon reversed %}
-  {% include archive-single.html %}
+{% assign raw_authors = post.citation | split: '. "' | first %}
+{% assign author_list = raw_authors | remove: "Kreider, Amanda R.," | remove: "Kreider, Amanda," | remove: ", Amanda R. Kreider" | remove: ", Amanda Kreider" | strip %}
+{% if author_list != "" %}
+[{{ post.title }}]({{ post.paperurl }}), with {{ author_list }}, *{{ post.venue }}*, {{ post.date | date: "%Y" }}
+{% else %}
+[{{ post.title }}]({{ post.paperurl }}), *{{ post.venue }}*, {{ post.date | date: "%Y" }}
+{% endif %}
+
 {% endfor %}
 
 ## Publications in Health Policy, HSR, and Medicine
+
 {% for post in site.pubsmed reversed %}
-  {% include archive-single.html %}
+{% assign raw_authors = post.citation | split: '. "' | first %}
+{% assign author_list = raw_authors | remove: "Kreider, Amanda R.," | remove: "Kreider, Amanda," | remove: ", Amanda R. Kreider" | remove: ", Amanda Kreider" | strip %}
+{% if author_list != "" %}
+[{{ post.title }}]({{ post.paperurl }}), with {{ author_list }}, *{{ post.venue }}*, {{ post.date | date: "%Y" }}
+{% else %}
+[{{ post.title }}]({{ post.paperurl }}), *{{ post.venue }}*, {{ post.date | date: "%Y" }}
+{% endif %}
+
 {% endfor %}
