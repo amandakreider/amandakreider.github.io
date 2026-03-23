@@ -38,7 +38,17 @@ layout: default
           <p> {{ page.type }}, {{ page.venue }}, {{ page.semester }} </p>
         {% elsif page.collection == 'side-projects' and page.venue and page.projurl %}
           <p> Published on <a href='{{ page.projurl }}' target='_blank'>{{ page.venue }}</a>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+        {% elsif page.collection == 'working-papers' or page.collection == 'in-progress' %}
+          {% if page.coauthors %}
+            <p>With {{ page.coauthors }}</p>
+          {% endif %}
+          {% if page.link %}
+            <p><a href='{{ page.link }}' target='_blank'>Download PDF</a></p>
+          {% endif %}
         {% elsif page.venue and page.date %}
+          {% if page.coauthors %}
+            <p>With {{ page.coauthors }}</p>
+          {% endif %}
           {% if page.venue != '' and page.paperurl != '' %}
             <p>Published in <a href='{{ page.paperurl }}' target='_blank'>{{ page.venue }}</a>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
           {% elsif page.venue != '' %}

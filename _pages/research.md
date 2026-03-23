@@ -19,13 +19,13 @@ author_profile: true
 ## Publications in Economics
 
 {% for post in site.pubsecon reversed %}
-{% if post.paperurl and post.paperurl != '' %}[{{ post.title }}]({{ post.paperurl }}){% else %}[{{ post.title }}]({{ base_path }}{{ post.url }}){% endif %}{% if post.coauthors %}, with {{ post.coauthors }}{% endif %}, *{{ post.venue }}*, {{ post.date | date: "%Y" }}
+[{{ post.title }}]({{ base_path }}{{ post.url }}){% if post.coauthors %}, with {{ post.coauthors }}{% endif %}, *{{ post.venue }}*, {{ post.date | date: "%Y" }}
 
 {% endfor %}
 
 ## Publications in Health Policy, HSR, and Medicine
 
 {% for post in site.pubsmed reversed %}
-{% if post.paperurl and post.paperurl != '' %}[{{ post.title }}]({{ post.paperurl }}){% else %}[{{ post.title }}]({{ base_path }}{{ post.url }}){% endif %}{% if post.coauthors %}, with {{ post.coauthors }}{% endif %}, *{{ post.venue }}*, {{ post.date | date: "%Y" }}
+[{{ post.title }}]({{ base_path }}{{ post.url }}){% if post.coauthors %}, with {{ post.coauthors }}{% endif %}, *{{ post.venue }}*, {{ post.date | date: "%Y" }}
 
 {% endfor %}
