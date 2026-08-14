@@ -9,7 +9,7 @@ paperurl: 'https://doi.org/10.1093/haschl/qxag129'
 submit: 1
 doi: '10.1093/haschl/qxag129'
 citation: 'Shen, Karen, Yang Yang, Jennifer L. Wolff, Jennifer M. Reckrey, Amanda R. Kreider, and Katherine E. M. Miller. 2026. &quot;Medicaid Funds Direct Care for One in Four Dual-Eligible Older Adults Nationally, but State Variation Is Four-Fold.&quot; <i>Health Affairs Scholar</i> 4 (6): qxag129.'
-coauthors: 'Karen Shen, Yang Yang, Jennifer L. Wolff, Jennifer M. Reckrey, Katherine E.M. Miller'
+coauthors: 'Karen Shen, Yang Yang, Jennifer L. Wolff, et al.'
 ---
 
 ## Abstract 
